@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "th-lange"
+    organization = "lange_ravie"
 
     workspaces {
-         name = "work"
+         name = "concon"
           }
   }
 }
