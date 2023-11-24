@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "repository_lange"
+    organization = "th-lange"
 
     workspaces {
-         name = "common_raven"
+         name = "work"
           }
   }
 }
